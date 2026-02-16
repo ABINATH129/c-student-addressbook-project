@@ -60,31 +60,6 @@ The system ensures that every mobile number and email ID is **valid and unique**
 
 ---
 
-## 📂 Project Structure
-
-```
-student-address-book-c/
-│
-├── src/
-│   ├── main.c
-│   ├── contact.c
-│   ├── file.c
-│   └── populate.c
-│
-├── include/
-│   ├── contact.h
-│   ├── file.h
-│   └── populate.h
-│
-├── data/
-│   ├── addressbook.csv
-│   └── contacts.txt
-│
-├── README.md
-├── Makefile
-└── .gitignore
----
-
 ## 🎯 Learning Outcome
 
 Through this project I improved my skills in:
