@@ -83,17 +83,6 @@ student-address-book-c/
 ├── README.md
 ├── Makefile
 └── .gitignore
-```
-
----
-
-## ▶️ How to Compile and Run
-
-```
-gcc src/*.c -Iinclude -o addressbook
-./addressbook
-```
-
 ---
 
 ## 🎯 Learning Outcome
